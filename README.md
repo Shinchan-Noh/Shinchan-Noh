@@ -4,7 +4,7 @@
 <div align="center">
 
   <!-- 🌙 Aesthetic Banner -->
-  <img src="assets/banner.png" width="100%" alt="Aastha's lavender anime banner"/>
+  <img src="assets/banner.png.png" width="100%" alt="Aastha's lavender anime banner"/>
 
   <br/>
 
