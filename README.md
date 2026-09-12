@@ -1,11 +1,6 @@
 
 <!-- ✨ AASTHA VASAVA — DREAMY GITHUB PROFILE ✨ -->
 
-<div align="center">
-
-  <!-- 🌙 Aesthetic Banner -->
-  <img src="banner.png.png" width="100%" alt="Aastha's lavender anime banner"/>
-
   <br/>
 
   <!-- 💜 Animated Introduction -->
