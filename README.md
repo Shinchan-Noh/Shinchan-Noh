@@ -4,7 +4,7 @@
   <br/>
 
   <!-- 💜 Animated Introduction -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aastha+Vasava!;CSE+Student+%7C+AI+%26+ML+Enthusiast;Learning+%7C+Creating+%7C+Growing;Small+steps%2C+big+dreams+%E2%9C%A8" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=10&color=C084FC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aastha+Vasava!;CSE+Student+%7C+AI+%26+ML+Enthusiast;Learning+%7C+Creating+%7C+Growing;Small+steps%2C+big+dreams+%E2%9C%A8" alt="Animated introduction"/>
 
   <br/>
 
